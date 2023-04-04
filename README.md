@@ -41,7 +41,7 @@
    
 ##
    
-![Snake Animation](http://github.com/Teksmarques/TeksMarques/blop/output/giyhub-contribution-grid-snake.svg)
+![snake gif](https://github.com/TeksMarques/TeksMarques/blob/output/github-contribution-grid-snake.svg)
 
 
 
